@@ -1,7 +1,7 @@
-using SAD.Demos;
+using SharpShowcase.Demos;
 using Serilog;
 
-namespace SAD.Menu;
+namespace SharpShowcase.Menu;
 
 public static class InteractiveMenu
 {
@@ -10,7 +10,7 @@ public static class InteractiveMenu
         while (true)
         {
             Console.Clear();
-            Console.WriteLine("SAD Project - Main Menu");
+            Console.WriteLine("SharpShowcase - Main Menu");
             Console.WriteLine("=======================");
             Console.WriteLine("1. Run Figgle Demo (ASCII Art)");
             Console.WriteLine("2. Run Humanizer Demo");

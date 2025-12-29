@@ -1,6 +1,6 @@
 using Figgle.Fonts;
 
-namespace SAD.Demos;
+namespace SharpShowcase.Demos;
 
 public static class FiggleDemo
 {

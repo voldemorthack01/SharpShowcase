@@ -1,5 +1,5 @@
-﻿using SAD.Configuration;
-using SAD.Menu;
+﻿using SharpShowcase.Configuration;
+using SharpShowcase.Menu;
 using Serilog;
 
 try

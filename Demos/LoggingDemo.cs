@@ -1,6 +1,6 @@
 using Serilog;
 
-namespace SAD.Demos;
+namespace SharpShowcase.Demos;
 
 public static class LoggingDemo
 {

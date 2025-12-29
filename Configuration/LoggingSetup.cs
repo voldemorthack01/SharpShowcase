@@ -1,6 +1,6 @@
 using Serilog;
 
-namespace SAD.Configuration;
+namespace SharpShowcase.Configuration;
 
 public static class LoggingSetup
 {
